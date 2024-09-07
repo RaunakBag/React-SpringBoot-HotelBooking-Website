@@ -19,7 +19,7 @@
 #    file-size-threshold: 2KB
 
 server:
-  port: 9191
+  port: 9190
 
 spring:
   datasource:
